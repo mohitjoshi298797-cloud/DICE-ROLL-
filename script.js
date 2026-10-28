@@ -102,9 +102,7 @@ function showHistory() {
     historyList.appendChild(item);
   }
 }
-
-
-                                  */
+                                
 
 function saveHistory() {
   try {
